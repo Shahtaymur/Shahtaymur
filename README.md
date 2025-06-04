@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.net core with angular**
 
-- 📫 How to reach me **shahtaymur800@gmail.com**
+- 📫 How to reach me **shahtaymur800@outlook.com**
 
 <p align="left">
 </p>
