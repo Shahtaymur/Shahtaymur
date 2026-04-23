@@ -48,10 +48,20 @@ A result-driven **Senior Full Stack Developer** with a decade of expertise in bu
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahtaymur&show_icons=true&theme=nord&rank_icon=github" alt="Khurram's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaymur&layout=compact&theme=nord" alt="Top Languages" height="180" />
+### 📊 Dynamic Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahtaymur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaymur&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahtaymur&theme=tokyonight&hide_border=true" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahtaymur&theme=tokyonight&area=true&hide_border=true" width="97%" />
 </p>
 
 ---
