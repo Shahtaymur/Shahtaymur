@@ -47,8 +47,9 @@ With over **10 years of experience** in the software industry, I specialize in b
 
 ---
 
-## 📊 Performance Metrics
+
 <!-- <p align="center">
+  ## 📊 Performance Metrics
   <img src="https://github-readme-stats.vercel.app/api?username=shahtaymur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Khurram Taymur GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaymur&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Coding Languages" />
 </p>
