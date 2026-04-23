@@ -16,7 +16,7 @@ With over **10 years of experience** in the software industry, I specialize in b
 
 ---
 
-## 🛠 Technical Skills (SEO Optimized)
+## 🛠 Technical Skills
 
 ### Backend Development & AI
 **Keywords:** .NET Core, C#, Python, AI, Node.js, PHP, Laravel, Web Security.
@@ -48,18 +48,14 @@ With over **10 years of experience** in the software industry, I specialize in b
 ---
 
 ## 📊 Performance Metrics
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahtaymur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Khurram Taymur GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaymur&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Coding Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahtaymur&theme=tokyonight&hide_border=true" width="97%" alt="Khurram's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahtaymur&theme=tokyonight&area=true&hide_border=true" width="97%" alt="Developer Activity Graph" />
-</p>
+</p> -->
 
 ---
 
