@@ -68,5 +68,5 @@ A result-driven **Senior Full Stack Developer** with a decade of expertise in bu
 
 ### 📫 Let's Connect
 - 📧 **Email:** [shahtaymur800@outlook.com](mailto:shahtaymur800@outlook.com)
-- 💼 **LinkedIn:** [Your Profile Link Here]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/khurram-taymur/)
 - 💬 **Ask me about:** System design, refactoring complex codebases, and the future of AI in dev.
